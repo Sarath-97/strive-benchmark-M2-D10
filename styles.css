@@ -2,3 +2,10 @@ body{
     background-color: rgb(219, 207, 219);
 }
 
+nav img{
+    height: 40px;
+    border: 2 solid black;
+    border-radius: 3px;
+    padding: 4px;
+    margin-right:50px;
+}
